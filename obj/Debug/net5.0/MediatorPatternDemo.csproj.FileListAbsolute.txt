@@ -1,0 +1,16 @@
+E:\MediatorPatternDemo\obj\Debug\net5.0\MediatorPatternDemo.csproj.AssemblyReference.cache
+E:\MediatorPatternDemo\obj\Debug\net5.0\MediatorPatternDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\MediatorPatternDemo\obj\Debug\net5.0\MediatorPatternDemo.AssemblyInfoInputs.cache
+E:\MediatorPatternDemo\obj\Debug\net5.0\MediatorPatternDemo.AssemblyInfo.cs
+E:\MediatorPatternDemo\obj\Debug\net5.0\MediatorPatternDemo.csproj.CoreCompileInputs.cache
+E:\MediatorPatternDemo\bin\Debug\net5.0\MediatorPatternDemo.exe
+E:\MediatorPatternDemo\bin\Debug\net5.0\MediatorPatternDemo.deps.json
+E:\MediatorPatternDemo\bin\Debug\net5.0\MediatorPatternDemo.runtimeconfig.json
+E:\MediatorPatternDemo\bin\Debug\net5.0\MediatorPatternDemo.runtimeconfig.dev.json
+E:\MediatorPatternDemo\bin\Debug\net5.0\MediatorPatternDemo.dll
+E:\MediatorPatternDemo\bin\Debug\net5.0\ref\MediatorPatternDemo.dll
+E:\MediatorPatternDemo\bin\Debug\net5.0\MediatorPatternDemo.pdb
+E:\MediatorPatternDemo\obj\Debug\net5.0\MediatorPatternDemo.dll
+E:\MediatorPatternDemo\obj\Debug\net5.0\ref\MediatorPatternDemo.dll
+E:\MediatorPatternDemo\obj\Debug\net5.0\MediatorPatternDemo.pdb
+E:\MediatorPatternDemo\obj\Debug\net5.0\MediatorPatternDemo.genruntimeconfig.cache
